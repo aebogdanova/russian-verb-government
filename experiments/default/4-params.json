@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "воздерживаться": {
+          "models_num_before": 4799,
+          "models_num_after": 254,
+          "remain_percent": 0.053
+        },
+        "внушать": {
+          "models_num_before": 4504,
+          "models_num_after": 958,
+          "remain_percent": 0.213
+        },
+        "воспроизводить": {
+          "models_num_before": 7010,
+          "models_num_after": 3003,
+          "remain_percent": 0.428
+        },
+        "арендовать": {
+          "models_num_before": 4613,
+          "models_num_after": 1245,
+          "remain_percent": 0.27
+        },
+        "ассоциироваться": {
+          "models_num_before": 6573,
+          "models_num_after": 3501,
+          "remain_percent": 0.533
+        }
+      },
+      "mean": {
+        "before_sum": 27499,
+        "after_sum": 8961,
+        "mean_sum": 0.326,
+        "mean_percent": 0.299
+      }
+    }
+  ]
+}

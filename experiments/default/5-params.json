@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "выливать": {
+          "models_num_before": 3152,
+          "models_num_after": 1278,
+          "remain_percent": 0.405
+        },
+        "грызть": {
+          "models_num_before": 1612,
+          "models_num_after": 330,
+          "remain_percent": 0.205
+        },
+        "выползать": {
+          "models_num_before": 2789,
+          "models_num_after": 1384,
+          "remain_percent": 0.496
+        },
+        "гостить": {
+          "models_num_before": 1455,
+          "models_num_after": 382,
+          "remain_percent": 0.263
+        },
+        "вышивать": {
+          "models_num_before": 1417,
+          "models_num_after": 511,
+          "remain_percent": 0.361
+        }
+      },
+      "mean": {
+        "before_sum": 10425,
+        "after_sum": 3885,
+        "mean_sum": 0.373,
+        "mean_percent": 0.346
+      }
+    }
+  ]
+}

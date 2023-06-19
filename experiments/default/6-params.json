@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "воскресать": {
+          "models_num_before": 883,
+          "models_num_after": 298,
+          "remain_percent": 0.337
+        },
+        "грезить": {
+          "models_num_before": 1053,
+          "models_num_after": 490,
+          "remain_percent": 0.465
+        },
+        "глушить": {
+          "models_num_before": 1038,
+          "models_num_after": 513,
+          "remain_percent": 0.494
+        },
+        "ворочать": {
+          "models_num_before": 652,
+          "models_num_after": 206,
+          "remain_percent": 0.316
+        },
+        "жалить": {
+          "models_num_before": 693,
+          "models_num_after": 289,
+          "remain_percent": 0.417
+        }
+      },
+      "mean": {
+        "before_sum": 4319,
+        "after_sum": 1796,
+        "mean_sum": 0.416,
+        "mean_percent": 0.406
+      }
+    }
+  ]
+}

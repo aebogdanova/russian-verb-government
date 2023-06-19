@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "запасать": {
+          "models_num_before": 818,
+          "models_num_after": 468,
+          "remain_percent": 0.572
+        },
+        "дезинфицировать": {
+          "models_num_before": 507,
+          "models_num_after": 170,
+          "remain_percent": 0.335
+        },
+        "брить": {
+          "models_num_before": 460,
+          "models_num_after": 163,
+          "remain_percent": 0.354
+        },
+        "афишировать": {
+          "models_num_before": 322,
+          "models_num_after": 82,
+          "remain_percent": 0.255
+        },
+        "громыхать": {
+          "models_num_before": 617,
+          "models_num_after": 335,
+          "remain_percent": 0.543
+        }
+      },
+      "mean": {
+        "before_sum": 2724,
+        "after_sum": 1218,
+        "mean_sum": 0.447,
+        "mean_percent": 0.412
+      }
+    }
+  ]
+}

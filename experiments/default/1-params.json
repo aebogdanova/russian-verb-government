@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "жить": {
+          "models_num_before": 49872,
+          "models_num_after": 1016,
+          "remain_percent": 0.02
+        },
+        "выполнять": {
+          "models_num_before": 58047,
+          "models_num_after": 2280,
+          "remain_percent": 0.039
+        },
+        "выражать": {
+          "models_num_before": 35535,
+          "models_num_after": 649,
+          "remain_percent": 0.018
+        },
+        "ждать": {
+          "models_num_before": 52823,
+          "models_num_after": 4621,
+          "remain_percent": 0.087
+        },
+        "действовать": {
+          "models_num_before": 43595,
+          "models_num_after": 2510,
+          "remain_percent": 0.058
+        }
+      },
+      "mean": {
+        "before_sum": 239872,
+        "after_sum": 11076,
+        "mean_sum": 0.046,
+        "mean_percent": 0.044
+      }
+    }
+  ]
+}

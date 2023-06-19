@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "закрывать": {
+          "models_num_before": 43719,
+          "models_num_after": 2364,
+          "remain_percent": 0.054
+        },
+        "задерживать": {
+          "models_num_before": 42194,
+          "models_num_after": 3544,
+          "remain_percent": 0.084
+        },
+        "замечать": {
+          "models_num_before": 36701,
+          "models_num_after": 1816,
+          "remain_percent": 0.049
+        },
+        "возглавлять": {
+          "models_num_before": 21255,
+          "models_num_after": 487,
+          "remain_percent": 0.023
+        },
+        "завершать": {
+          "models_num_before": 27310,
+          "models_num_after": 1642,
+          "remain_percent": 0.06
+        }
+      },
+      "mean": {
+        "before_sum": 171179,
+        "after_sum": 9853,
+        "mean_sum": 0.058,
+        "mean_percent": 0.054
+      }
+    }
+  ]
+}

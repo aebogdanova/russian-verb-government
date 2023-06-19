@@ -1,0 +1,12 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.1,
+  "min_nouns_size": 10,
+  "80-percent": [
+    false,
+    {
+      "verbs": {},
+      "mean": {}
+    }
+  ]
+}

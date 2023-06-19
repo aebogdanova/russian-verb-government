@@ -1,0 +1,43 @@
+{
+  "min_nouns_freq": 1,
+  "min_coverage": 0.0,
+  "min_nouns_size": 1,
+  "80-percent": [
+    true,
+    {
+      "verbs": {
+        "вынуждать": {
+          "models_num_before": 15722,
+          "models_num_after": 1127,
+          "remain_percent": 0.072
+        },
+        "добираться": {
+          "models_num_before": 17503,
+          "models_num_after": 1445,
+          "remain_percent": 0.083
+        },
+        "закладывать": {
+          "models_num_before": 21654,
+          "models_num_after": 3869,
+          "remain_percent": 0.179
+        },
+        "бросаться": {
+          "models_num_before": 17644,
+          "models_num_after": 2468,
+          "remain_percent": 0.14
+        },
+        "благодарить": {
+          "models_num_before": 14673,
+          "models_num_after": 1595,
+          "remain_percent": 0.109
+        }
+      },
+      "mean": {
+        "before_sum": 87196,
+        "after_sum": 10504,
+        "mean_sum": 0.12,
+        "mean_percent": 0.117
+      }
+    }
+  ]
+}
